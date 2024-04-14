@@ -21,4 +21,8 @@ Graduate in computer science with extensive expertise in full-stack development,
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=ffffff)
 
 ## Developer Illustration
-![Illustration](https://example.com/your-illustration.png)
+![Illustration](https://drive.google.com/file/d/1zEt-P1ET_Yz2DcjFDunOR4aHiHL8bxkm/view?usp=sharing)
+
+
+
+Illustrations - <a href="https://www.vecteezy.com/free-png/software-engineer">Software Engineer PNGs by Vecteezy</a>
