@@ -13,7 +13,7 @@ Graduate in computer science with extensive expertise in full-stack development,
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
